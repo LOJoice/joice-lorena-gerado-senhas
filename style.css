@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root {
-    --branco: white;
+    --branco: rgb(0, 0, 0);
     --cor-de-fundo: #a131b0ff;
     --fundo-senha: #9324a2;
-    --fundo-texto: #9842ae;
-    --borda: #a7b5c608;
+    --fundo-texto: #9140a6;
+    --borda: #186c5e89;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -141,7 +141,7 @@ label {
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #1de986;
     width: 100%;
 }
 
